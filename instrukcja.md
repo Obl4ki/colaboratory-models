@@ -5,7 +5,9 @@ git clone https://github.com/Obl4ki/colaboratory-models.git
 
 # Jak wrzucić
 git add .
+
 git commit -m "opis commita"
+
 git push
 
 Przed wrzuceniem proszę o sprawdzenie 2 razy czy wszystkie zmienione pliki są dołączone
