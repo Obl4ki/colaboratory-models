@@ -5,6 +5,8 @@ git clone https://github.com/Obl4ki/colaboratory-models.git
 
 # Jak wrzucić
 ```
+git pull
+
 git add .
 
 git commit -m "opis commita"
